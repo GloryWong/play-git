@@ -1,5 +1,27 @@
 # Changelog
 
+## [2.0.0](https://github.com/GloryWong/try-release-please/compare/v1.0.1...v2.0.0) (2024-05-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* **nope:** goddd
+* **nope:** lllla
+* **nope:** gaga
+* **nope:** ssa
+
+### Bug Fixes
+
+* **nope:** gaga ([a410852](https://github.com/GloryWong/try-release-please/commit/a410852a6cfb69a8f24a4a65f60b615b4c035bbf))
+* **nope:** goddd ([2ce1f6e](https://github.com/GloryWong/try-release-please/commit/2ce1f6e7dc52df056d64acb59c27bf26c2b7972a))
+* **nope:** ssa ([bda781d](https://github.com/GloryWong/try-release-please/commit/bda781d3e330209065fe85b7145faa2d4b18449f))
+* **nope:** ssa ([b9358a0](https://github.com/GloryWong/try-release-please/commit/b9358a0e1c1775bbac26eee54b8ec09873ff5f67))
+
+
+### Documentation
+
+* **nope:** lllla ([dc2187a](https://github.com/GloryWong/try-release-please/commit/dc2187a15465c72f3b41c0a22778cf83f35db7a7))
+
 ## [1.0.1](https://github.com/GloryWong/try-release-please/compare/v1.0.0...v1.0.1) (2024-05-08)
 
 
