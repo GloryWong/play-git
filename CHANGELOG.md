@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/GloryWong/play-git/compare/v3.0.1...v3.1.0) (2024-05-10)
+
+
+### Features
+
+* jesus ([0e101ee](https://github.com/GloryWong/play-git/commit/0e101ee130723831bc4162429d5a933a7c095bd1))
+
 ## [3.0.1](https://github.com/GloryWong/play-git/compare/v3.0.0...v3.0.1) (2024-05-10)
 
 
