@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/GloryWong/play-git/compare/v2.0.2...v3.0.0) (2024-05-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* hahaha
+
+### Bug Fixes
+
+* just change name ([8f196d5](https://github.com/GloryWong/play-git/commit/8f196d57b77c368d0ff6fc4d6903e7d445a0391b))
+
 ## [2.0.2](https://github.com/GloryWong/try-release-please/compare/v2.0.1...v2.0.2) (2024-05-10)
 
 
