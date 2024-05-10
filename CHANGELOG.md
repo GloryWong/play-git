@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/GloryWong/try-release-please/compare/v2.0.0...v2.0.1) (2024-05-10)
+
+
+### Bug Fixes
+
+* god ([7bfa5c7](https://github.com/GloryWong/try-release-please/commit/7bfa5c76b6e35da1f3c8119f4a17f1cda4614b3d))
+
 ## [2.0.0](https://github.com/GloryWong/try-release-please/compare/v1.0.1...v2.0.0) (2024-05-08)
 
 
