@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.1](https://github.com/GloryWong/play-git/compare/v3.1.0...v3.1.1) (2024-05-10)
+
+
+### Bug Fixes
+
+* try ([10dbb51](https://github.com/GloryWong/play-git/commit/10dbb51188210d42e346110283e399315c20655d))
+
 ## [3.1.0](https://github.com/GloryWong/play-git/compare/v3.0.1...v3.1.0) (2024-05-10)
 
 
