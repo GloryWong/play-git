@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/GloryWong/try-release-please/compare/v2.0.1...v2.0.2) (2024-05-10)
+
+
+### Bug Fixes
+
+* haah ([34e8f8c](https://github.com/GloryWong/try-release-please/commit/34e8f8c2009ee103b02d47d46a36d4f163895211))
+
 ## [2.0.1](https://github.com/GloryWong/try-release-please/compare/v2.0.0...v2.0.1) (2024-05-10)
 
 
