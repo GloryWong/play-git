@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.1](https://github.com/GloryWong/play-git/compare/v3.0.0...v3.0.1) (2024-05-10)
+
+
+### Bug Fixes
+
+* god there ([293fa03](https://github.com/GloryWong/play-git/commit/293fa03ecf63cd41d7549db41830a59434efb15d))
+
 ## [3.0.0](https://github.com/GloryWong/play-git/compare/v2.0.2...v3.0.0) (2024-05-10)
 
 
