@@ -1,3 +1,3 @@
 function nothing() {
-  console.log('This is testing nothing at all')
+  console.log('This is testing nothing at all', 'haah')
 }
