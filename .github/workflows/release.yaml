@@ -1,10 +1,9 @@
 name: release
 
 on:
-  workflow_run:
-    workflows: [commitlint]
-    types:
-      - completed
+  push:
+    branches:
+      - master
 
 permissions:
   contents: write
